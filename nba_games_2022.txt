@@ -1,0 +1,6601 @@
+NBA Games for the 2022 Season:
+Game ID: 857369
+Date: 2022-10-20T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857370
+Date: 2022-10-20T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857381
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857374
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857376
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857373
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857379
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857371
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857380
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857375
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857378
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857377
+Date: 2022-10-21T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857372
+Date: 2022-10-21T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857388
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857385
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857382
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857389
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857383
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857390
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857386
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857387
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857384
+Date: 2022-10-22T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857391
+Date: 2022-10-23T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857396
+Date: 2022-10-23T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857394
+Date: 2022-10-23T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857392
+Date: 2022-10-23T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857397
+Date: 2022-10-23T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857395
+Date: 2022-10-23T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857393
+Date: 2022-10-23T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857401
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857398
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857406
+Date: 2022-10-25T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857399
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857400
+Date: 2022-10-24T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857403
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857409
+Date: 2022-10-25T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857404
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857408
+Date: 2022-10-25T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857402
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857415
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857405
+Date: 2022-10-24T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857413
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857414
+Date: 2022-10-26T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857407
+Date: 2022-10-25T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857411
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857417
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857412
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857416
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857410
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858055
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858047
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858063
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858072
+Date: 2023-01-24T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858077
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858085
+Date: 2023-01-26T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858159
+Date: 2023-02-05T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858163
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858173
+Date: 2023-02-07T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858188
+Date: 2023-02-09T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858201
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858220
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858226
+Date: 2023-02-14T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858232
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858245
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858251
+Date: 2023-02-24T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858261
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858268
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858283
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858292
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858306
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858313
+Date: 2023-03-04T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858317
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857440
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857429
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857449
+Date: 2022-10-30T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857457
+Date: 2022-11-01T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857488
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857463
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857477
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857592
+Date: 2022-11-19T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857496
+Date: 2022-11-06T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857507
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857519
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857572
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857581
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857605
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857595
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857622
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857660
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857629
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857665
+Date: 2022-11-29T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857669
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857684
+Date: 2022-12-02T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857702
+Date: 2022-12-04T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857697
+Date: 2022-12-03T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857745
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857719
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857735
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857758
+Date: 2022-12-12T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857749
+Date: 2022-12-11T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857779
+Date: 2022-12-15T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857764
+Date: 2022-12-13T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857770
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857790
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857797
+Date: 2022-12-17T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857817
+Date: 2022-12-20T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857805
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857812
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857824
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857839
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857850
+Date: 2022-12-25T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857845
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857855
+Date: 2022-12-26T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857860
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857901
+Date: 2023-01-01T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857874
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857886
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857898
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857921
+Date: 2023-01-04T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857910
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857960
+Date: 2023-01-09T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857935
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857957
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857975
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857967
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857981
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857997
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857994
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858009
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858018
+Date: 2023-01-16T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858021
+Date: 2023-01-17T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858025
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858064
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858046
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858057
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858087
+Date: 2023-01-26T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858076
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858102
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858092
+Date: 2023-01-27T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858090
+Date: 2023-01-27T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858098
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858114
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858118
+Date: 2023-01-31T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858113
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858130
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858137
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858143
+Date: 2023-02-03T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858150
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858170
+Date: 2023-02-07T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858186
+Date: 2023-02-09T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858193
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858203
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858217
+Date: 2023-02-13T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858223
+Date: 2023-02-14T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858231
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858241
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858253
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858260
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858266
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858281
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858288
+Date: 2023-03-01T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857447
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857428
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857478
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857452
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857532
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857490
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857500
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857518
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857525
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857527
+Date: 2022-11-10T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857575
+Date: 2022-11-17T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857543
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857549
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857556
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857563
+Date: 2022-11-15T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857571
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857610
+Date: 2022-11-22T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857580
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857596
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857608
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857633
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857617
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857639
+Date: 2022-11-25T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857687
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857646
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857661
+Date: 2022-11-28T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857664
+Date: 2022-11-29T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857668
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857701
+Date: 2022-12-04T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857692
+Date: 2022-12-03T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857710
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857715
+Date: 2022-12-06T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857785
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857721
+Date: 2022-12-07T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857736
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857744
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857750
+Date: 2022-12-11T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857762
+Date: 2022-12-12T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857765
+Date: 2022-12-13T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857774
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857803
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857795
+Date: 2022-12-17T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857810
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857828
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857861
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857840
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857854
+Date: 2022-12-26T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857891
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857893
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857907
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857936
+Date: 2023-01-06T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857924
+Date: 2023-01-04T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857972
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857949
+Date: 2023-01-07T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857954
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857968
+Date: 2023-01-10T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857983
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857990
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858006
+Date: 2023-01-15T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857996
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858012
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858024
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858035
+Date: 2023-01-19T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858125
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858049
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858053
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858060
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858093
+Date: 2023-01-27T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858078
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858089
+Date: 2023-01-26T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858100
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858107
+Date: 2023-01-29T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858128
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858110
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858119
+Date: 2023-01-31T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858133
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858134
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858141
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858144
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858149
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858160
+Date: 2023-02-05T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858165
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858175
+Date: 2023-02-07T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858206
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858210
+Date: 2023-02-12T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858216
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858224
+Date: 2023-02-14T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857442
+Date: 2022-10-30T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857473
+Date: 2022-11-03T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857430
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857437
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857481
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857494
+Date: 2022-11-06T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857492
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857557
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857502
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857520
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857529
+Date: 2022-11-10T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857533
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857538
+Date: 2022-11-12T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857550
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857577
+Date: 2022-11-17T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857561
+Date: 2022-11-15T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857567
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857648
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857585
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857591
+Date: 2022-11-19T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857598
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857603
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857612
+Date: 2022-11-22T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857616
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857674
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857654
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857706
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857685
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857693
+Date: 2022-12-03T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857700
+Date: 2022-12-04T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857729
+Date: 2022-12-08T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857724
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857741
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857733
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857775
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857793
+Date: 2022-12-17T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857778
+Date: 2022-12-15T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857784
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857801
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857807
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857816
+Date: 2022-12-20T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857822
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857832
+Date: 2022-12-22T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857857
+Date: 2022-12-26T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857849
+Date: 2022-12-25T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857859
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857873
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857892
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857879
+Date: 2022-12-29T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857890
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857911
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857916
+Date: 2023-01-03T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857933
+Date: 2023-01-05T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857923
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857980
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857942
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857946
+Date: 2023-01-07T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857953
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857959
+Date: 2023-01-09T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857966
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857977
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857989
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857998
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858017
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858020
+Date: 2023-01-17T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858029
+Date: 2023-01-18T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858032
+Date: 2023-01-19T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858147
+Date: 2023-02-04T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858164
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858180
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858198
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858202
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858214
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858229
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858061
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858048
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858054
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858079
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858084
+Date: 2023-01-26T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858116
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858097
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858132
+Date: 2023-02-02T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858126
+Date: 2023-02-01T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858140
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858238
+Date: 2023-02-16T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858248
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858255
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858258
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858265
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858284
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858289
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858304
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858318
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858327
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858334
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858340
+Date: 2023-03-08T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858367
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858373
+Date: 2023-03-12T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858375
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858391
+Date: 2023-03-15T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858403
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858410
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857446
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857476
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857426
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857436
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857460
+Date: 2022-11-01T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857470
+Date: 2022-11-02T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857489
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857510
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857583
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857503
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857515
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857534
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857540
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857573
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857590
+Date: 2022-11-19T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857647
+Date: 2022-11-27T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857597
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857607
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857620
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857628
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857671
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857653
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857708
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857682
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857703
+Date: 2022-12-04T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857742
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857726
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857734
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857752
+Date: 2022-12-11T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857756
+Date: 2022-12-12T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857789
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857772
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857809
+Date: 2022-12-19T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857796
+Date: 2022-12-17T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857799
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857825
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857871
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857837
+Date: 2022-12-23T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857866
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857906
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857878
+Date: 2022-12-29T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857885
+Date: 2022-12-30T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857897
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857947
+Date: 2023-01-07T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857943
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857974
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857951
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857982
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857987
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857995
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858011
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858002
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858027
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858033
+Date: 2023-01-19T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858148
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858190
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858199
+Date: 2023-02-10T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858200
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858221
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858222
+Date: 2023-02-14T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858228
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858278
+Date: 2023-02-28T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858301
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858359
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858438
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858451
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858491
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858512
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858074
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858124
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858095
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858105
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858111
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858517
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858527
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858531
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857434
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857435
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857443
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857508
+Date: 2022-11-07T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857461
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857471
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857472
+Date: 2022-11-03T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857474
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857484
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857487
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857513
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857498
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857526
+Date: 2022-11-10T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857523
+Date: 2022-11-09T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857530
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857547
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857542
+Date: 2022-11-12T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857554
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857589
+Date: 2022-11-19T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857565
+Date: 2022-11-16T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857588
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857594
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857615
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857602
+Date: 2022-11-21T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857624
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857626
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857636
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857640
+Date: 2022-11-26T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857658
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857644
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857677
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857666
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857690
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857691
+Date: 2022-12-03T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857680
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857769
+Date: 2022-12-14T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857698
+Date: 2022-12-04T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857707
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857727
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857717
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857728
+Date: 2022-12-08T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857731
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857783
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857830
+Date: 2022-12-21T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857833
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857831
+Date: 2022-12-22T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857864
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857843
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857848
+Date: 2022-12-25T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857853
+Date: 2022-12-26T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857895
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857869
+Date: 2022-12-28T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857883
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857914
+Date: 2023-01-02T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857934
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857904
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857915
+Date: 2023-01-03T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857919
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857928
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857930
+Date: 2023-01-05T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857944
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857945
+Date: 2023-01-07T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857950
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858010
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858023
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858152
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858179
+Date: 2023-02-08T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858189
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858227
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858240
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858264
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858277
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858287
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858300
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858316
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858358
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858452
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858467
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858490
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858502
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858518
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858530
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858541
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858543
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858556
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858571
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858581
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858096
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858139
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858123
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857475
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857425
+Date: 2022-10-28T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857696
+Date: 2022-12-03T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857364
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857421
+Date: 2022-10-27T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857462
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857531
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857485
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857486
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857541
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857663
+Date: 2022-11-29T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857546
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857553
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857509
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857768
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857560
+Date: 2022-11-15T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857614
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857625
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857499
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857514
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857667
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857566
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857579
+Date: 2022-11-18T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857718
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857627
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857637
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857641
+Date: 2022-11-26T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857806
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857645
+Date: 2022-11-27T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857659
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857844
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857782
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857676
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857865
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857681
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857732
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857931
+Date: 2023-01-05T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857834
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857847
+Date: 2022-12-25T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857820
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857884
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857905
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857852
+Date: 2022-12-26T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857918
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857920
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857870
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857896
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857929
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857941
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858161
+Date: 2023-02-05T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858166
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858171
+Date: 2023-02-07T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858183
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858185
+Date: 2023-02-09T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858204
+Date: 2023-02-11T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858215
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858234
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858242
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858252
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858262
+Date: 2023-02-25T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858270
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858274
+Date: 2023-02-27T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858279
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858290
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858298
+Date: 2023-03-02T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858305
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858310
+Date: 2023-03-04T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858321
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858325
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858331
+Date: 2023-03-07T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858339
+Date: 2023-03-08T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858349
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858361
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857439
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857479
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857444
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857451
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857497
+Date: 2022-11-06T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857491
+Date: 2022-11-05T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857570
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857501
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857522
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858050
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858062
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858058
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858099
+Date: 2023-01-28T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858080
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858112
+Date: 2023-01-30T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858120
+Date: 2023-01-31T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858129
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858138
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858142
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857535
+Date: 2022-11-11T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857544
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857548
+Date: 2022-11-13T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857555
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857562
+Date: 2022-11-15T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857582
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857601
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857604
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857611
+Date: 2022-11-22T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857630
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857619
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857649
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857656
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857751
+Date: 2022-12-11T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857672
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857720
+Date: 2022-12-07T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857738
+Date: 2022-12-09T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857743
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857757
+Date: 2022-12-12T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857763
+Date: 2022-12-13T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857773
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857787
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857794
+Date: 2022-12-17T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857800
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857826
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857808
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857835
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857867
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857872
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857877
+Date: 2022-12-29T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857964
+Date: 2023-01-09T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857887
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857900
+Date: 2022-12-31T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857902
+Date: 2023-01-01T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857908
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857938
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857952
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857988
+Date: 2023-01-13T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857965
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857973
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857999
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858004
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858014
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858026
+Date: 2023-01-18T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858036
+Date: 2023-01-19T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858196
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858219
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858236
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858256
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858271
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858286
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858291
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858309
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858324
+Date: 2023-03-05T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858338
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858362
+Date: 2023-03-11T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858380
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858404
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858416
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858421
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858446
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858460
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858475
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858478
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858499
+Date: 2023-03-29T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858507
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858513
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858515
+Date: 2023-04-01T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858519
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858532
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858542
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858547
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858564
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858578
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858584
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857368
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857431
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857466
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857427
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857504
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857482
+Date: 2022-11-04T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857511
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857516
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857528
+Date: 2022-11-10T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857524
+Date: 2022-11-09T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857558
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857536
+Date: 2022-11-11T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857545
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857551
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857586
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858083
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858101
+Date: 2023-01-28T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857568
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857670
+Date: 2022-11-30T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857623
+Date: 2022-11-23T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857638
+Date: 2022-11-25T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857635
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857642
+Date: 2022-11-26T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857650
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857662
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857679
+Date: 2022-12-01T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857678
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857705
+Date: 2022-12-04T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857686
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857723
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857713
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857709
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857740
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857747
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857755
+Date: 2022-12-11T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857761
+Date: 2022-12-12T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857777
+Date: 2022-12-14T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857791
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857811
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857838
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857829
+Date: 2022-12-21T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857846
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857851
+Date: 2022-12-25T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857858
+Date: 2022-12-26T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857863
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857912
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857940
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857922
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857961
+Date: 2023-01-09T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857958
+Date: 2023-01-08T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857969
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857978
+Date: 2023-01-11T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857984
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857993
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858007
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858015
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858030
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858155
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858157
+Date: 2023-02-05T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858167
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858174
+Date: 2023-02-07T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858187
+Date: 2023-02-09T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858207
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858218
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858233
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858244
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858254
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858263
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858269
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858273
+Date: 2023-02-27T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858285
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858293
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858297
+Date: 2023-03-02T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858307
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858312
+Date: 2023-03-04T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858323
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858336
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858344
+Date: 2023-03-08T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857465
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857445
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857438
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857480
+Date: 2022-11-04T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857455
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857512
+Date: 2022-11-07T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857609
+Date: 2022-11-21T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857506
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857517
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857574
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857587
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857600
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857632
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857621
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857651
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857657
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857675
+Date: 2022-11-30T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857748
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857688
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858059
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858052
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858065
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858088
+Date: 2023-01-26T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858082
+Date: 2023-01-25T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858091
+Date: 2023-01-27T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858104
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858108
+Date: 2023-01-29T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858135
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858117
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858122
+Date: 2023-01-31T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858127
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858146
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857695
+Date: 2022-12-03T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857704
+Date: 2022-12-04T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857712
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857714
+Date: 2022-12-06T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857722
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857786
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857754
+Date: 2022-12-11T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857759
+Date: 2022-12-12T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857766
+Date: 2022-12-13T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857771
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857781
+Date: 2022-12-15T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857802
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857798
+Date: 2022-12-17T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857819
+Date: 2022-12-20T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857813
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857875
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857827
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857841
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857868
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857888
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857882
+Date: 2022-12-29T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857903
+Date: 2023-01-01T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857899
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857909
+Date: 2023-01-02T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857939
+Date: 2023-01-06T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857970
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857956
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857963
+Date: 2023-01-09T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857985
+Date: 2023-01-12T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857979
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857992
+Date: 2023-01-13T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858001
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858016
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858008
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858022
+Date: 2023-01-17T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858028
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858213
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858225
+Date: 2023-02-14T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858239
+Date: 2023-02-16T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858246
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858249
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858259
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858272
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858275
+Date: 2023-02-27T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858282
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858294
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858299
+Date: 2023-03-02T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858303
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858315
+Date: 2023-03-04T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858320
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858330
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858337
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858343
+Date: 2023-03-08T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858351
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858356
+Date: 2023-03-10T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858364
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858372
+Date: 2023-03-12T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858377
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858394
+Date: 2023-03-15T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858400
+Date: 2023-03-16T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858413
+Date: 2023-03-18T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858422
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858426
+Date: 2023-03-20T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858436
+Date: 2023-03-21T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858440
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858450
+Date: 2023-03-23T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858459
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858466
+Date: 2023-03-25T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858470
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858483
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858484
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858498
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858500
+Date: 2023-03-30T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858509
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858524
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858536
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858550
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858555
+Date: 2023-04-06T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858565
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858569
+Date: 2023-04-08T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858577
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857739
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857986
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857433
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857367
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858230
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858237
+Date: 2023-02-16T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858243
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858250
+Date: 2023-02-24T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858257
+Date: 2023-02-25T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858267
+Date: 2023-02-26T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858276
+Date: 2023-02-27T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858280
+Date: 2023-02-28T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858295
+Date: 2023-03-01T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858296
+Date: 2023-03-02T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858302
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858319
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858328
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858332
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858341
+Date: 2023-03-08T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858353
+Date: 2023-03-10T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858360
+Date: 2023-03-11T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858369
+Date: 2023-03-12T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858379
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858383
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858393
+Date: 2023-03-15T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858398
+Date: 2023-03-16T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858408
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858411
+Date: 2023-03-18T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858424
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858432
+Date: 2023-03-21T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858439
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858447
+Date: 2023-03-23T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858457
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858461
+Date: 2023-03-25T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858471
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858476
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858487
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858494
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858501
+Date: 2023-03-30T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858510
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858523
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858539
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858545
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858554
+Date: 2023-04-06T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858562
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858568
+Date: 2023-04-08T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858574
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857424
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857804
+Date: 2022-12-18T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858003
+Date: 2023-01-15T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857365
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858314
+Date: 2023-03-04T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858322
+Date: 2023-03-05T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858335
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858342
+Date: 2023-03-08T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858348
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858352
+Date: 2023-03-10T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858363
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858370
+Date: 2023-03-12T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858376
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858397
+Date: 2023-03-16T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858401
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858412
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858420
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858427
+Date: 2023-03-20T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858435
+Date: 2023-03-21T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858443
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858455
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858464
+Date: 2023-03-25T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858469
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858482
+Date: 2023-03-27T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858495
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858506
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858525
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858535
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858549
+Date: 2023-04-05T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858552
+Date: 2023-04-06T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858561
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858573
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857359
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857361
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857448
+Date: 2022-10-30T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857815
+Date: 2022-12-20T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858326
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858333
+Date: 2023-03-07T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858345
+Date: 2023-03-08T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858347
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858354
+Date: 2023-03-10T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858365
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858368
+Date: 2023-03-12T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858378
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858384
+Date: 2023-03-14T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858392
+Date: 2023-03-15T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858396
+Date: 2023-03-16T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858402
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858409
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858418
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858434
+Date: 2023-03-21T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858444
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858449
+Date: 2023-03-23T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858453
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858463
+Date: 2023-03-25T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858472
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858480
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858488
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858497
+Date: 2023-03-29T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858508
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858521
+Date: 2023-04-02T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858529
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858533
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858563
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858576
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858583
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857360
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857362
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857450
+Date: 2022-10-31T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857456
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857821
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858357
+Date: 2023-03-10T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858366
+Date: 2023-03-11T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858388
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858395
+Date: 2023-03-15T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858407
+Date: 2023-03-17T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858415
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858423
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858430
+Date: 2023-03-20T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858433
+Date: 2023-03-21T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858445
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858458
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858465
+Date: 2023-03-25T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858474
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858481
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858489
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858496
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858511
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858514
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858516
+Date: 2023-04-01T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858520
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858534
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858559
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858579
+Date: 2023-04-09T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857453
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857357
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858371
+Date: 2023-03-12T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858399
+Date: 2023-03-16T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858405
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858414
+Date: 2023-03-18T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858419
+Date: 2023-03-19T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858429
+Date: 2023-03-20T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858431
+Date: 2023-03-21T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858441
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858448
+Date: 2023-03-23T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858456
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858473
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858479
+Date: 2023-03-27T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858485
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858492
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858505
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858537
+Date: 2023-04-04T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858548
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858553
+Date: 2023-04-06T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858560
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858572
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857459
+Date: 2022-11-01T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 857358
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858417
+Date: 2023-03-19T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858442
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858454
+Date: 2023-03-24T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858462
+Date: 2023-03-25T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858468
+Date: 2023-03-26T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858477
+Date: 2023-03-27T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858486
+Date: 2023-03-28T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858493
+Date: 2023-03-29T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858504
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858522
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858538
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858546
+Date: 2023-04-05T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858551
+Date: 2023-04-06T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858558
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858575
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858582
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858540
+Date: 2023-04-04T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858544
+Date: 2023-04-05T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858557
+Date: 2023-04-07T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858566
+Date: 2023-04-07T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858567
+Date: 2023-04-08T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858570
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858580
+Date: 2023-04-09T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857464
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857469
+Date: 2022-11-02T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857468
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857419
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857578
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857618
+Date: 2022-11-23T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857836
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857355
+Date: 2022-10-18T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857418
+Date: 2022-10-26T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857631
+Date: 2022-11-25T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857881
+Date: 2022-12-29T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857356
+Date: 2022-10-18T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857420
+Date: 2022-10-27T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857643
+Date: 2022-11-26T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 857927
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857363
+Date: 2022-10-19T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857422
+Date: 2022-10-27T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857683
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857925
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857366
+Date: 2022-10-19T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858151
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858158
+Date: 2023-02-05T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858172
+Date: 2023-02-07T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858177
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858197
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 857458
+Date: 2022-11-01T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857441
+Date: 2022-10-29T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 857423
+Date: 2022-10-27T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857432
+Date: 2022-10-28T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857493
+Date: 2022-11-05T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 857454
+Date: 2022-10-31T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857467
+Date: 2022-11-02T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857483
+Date: 2022-11-04T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 857495
+Date: 2022-11-06T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857539
+Date: 2022-11-12T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857505
+Date: 2022-11-07T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 857521
+Date: 2022-11-09T00:00:00.000Z
+Home Team: Chicago Bulls
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857537
+Date: 2022-11-11T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857564
+Date: 2022-11-15T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857552
+Date: 2022-11-13T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857559
+Date: 2022-11-14T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857569
+Date: 2022-11-16T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857576
+Date: 2022-11-17T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857584
+Date: 2022-11-18T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857606
+Date: 2022-11-21T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857593
+Date: 2022-11-19T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857599
+Date: 2022-11-20T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857613
+Date: 2022-11-22T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857634
+Date: 2022-11-25T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857699
+Date: 2022-12-04T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857652
+Date: 2022-11-27T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857655
+Date: 2022-11-28T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 857673
+Date: 2022-11-30T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857689
+Date: 2022-12-02T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 857694
+Date: 2022-12-03T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857725
+Date: 2022-12-07T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857711
+Date: 2022-12-05T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857716
+Date: 2022-12-06T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857746
+Date: 2022-12-10T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857730
+Date: 2022-12-08T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 857737
+Date: 2022-12-09T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 857753
+Date: 2022-12-11T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857776
+Date: 2022-12-14T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857760
+Date: 2022-12-12T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857767
+Date: 2022-12-13T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857788
+Date: 2022-12-16T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857780
+Date: 2022-12-15T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 857814
+Date: 2022-12-19T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 857792
+Date: 2022-12-17T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 857818
+Date: 2022-12-20T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 857842
+Date: 2022-12-23T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857823
+Date: 2022-12-21T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 857862
+Date: 2022-12-27T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 857856
+Date: 2022-12-26T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857889
+Date: 2022-12-30T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857876
+Date: 2022-12-28T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 857880
+Date: 2022-12-29T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 857894
+Date: 2022-12-31T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 857932
+Date: 2023-01-05T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 857913
+Date: 2023-01-02T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 857917
+Date: 2023-01-03T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 857926
+Date: 2023-01-04T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 857937
+Date: 2023-01-06T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858056
+Date: 2023-01-22T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858051
+Date: 2023-01-21T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858066
+Date: 2023-01-23T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858081
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858086
+Date: 2023-01-26T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858109
+Date: 2023-01-29T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858094
+Date: 2023-01-27T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858103
+Date: 2023-01-28T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858115
+Date: 2023-01-30T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858145
+Date: 2023-02-03T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858121
+Date: 2023-01-31T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858131
+Date: 2023-02-01T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Orlando Magic
+------------------------------
+Game ID: 858136
+Date: 2023-02-02T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 857991
+Date: 2023-01-13T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 857948
+Date: 2023-01-07T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 857955
+Date: 2023-01-08T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 857962
+Date: 2023-01-09T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 857971
+Date: 2023-01-10T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 857976
+Date: 2023-01-11T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858000
+Date: 2023-01-14T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858005
+Date: 2023-01-15T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858019
+Date: 2023-01-17T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858013
+Date: 2023-01-16T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858031
+Date: 2023-01-18T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 858034
+Date: 2023-01-19T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858040
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858041
+Date: 2023-01-20T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858106
+Date: 2023-01-29T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858070
+Date: 2023-01-24T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858067
+Date: 2023-01-24T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858069
+Date: 2023-01-24T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 858043
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858068
+Date: 2023-01-24T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858042
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858071
+Date: 2023-01-24T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858039
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858037
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858044
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 858073
+Date: 2023-01-24T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858045
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858038
+Date: 2023-01-20T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858075
+Date: 2023-01-25T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858194
+Date: 2023-02-10T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858153
+Date: 2023-02-04T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858169
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 858178
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 858162
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Portland Trail Blazers
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858176
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858205
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858208
+Date: 2023-02-11T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 858182
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858154
+Date: 2023-02-04T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 858181
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858195
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858192
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: San Antonio Spurs
+------------------------------
+Game ID: 858191
+Date: 2023-02-10T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 858184
+Date: 2023-02-08T00:00:00.000Z
+Home Team: Houston Rockets
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858156
+Date: 2023-02-05T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 858168
+Date: 2023-02-06T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 858209
+Date: 2023-02-12T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858374
+Date: 2023-03-13T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858311
+Date: 2023-03-04T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Toronto Raptors
+------------------------------
+Game ID: 858211
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Dallas Mavericks
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858212
+Date: 2023-02-13T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Washington Wizards
+------------------------------
+Game ID: 858329
+Date: 2023-03-06T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: New Orleans Pelicans
+------------------------------
+Game ID: 858235
+Date: 2023-02-15T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 858350
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Indiana Pacers
+Visitor Team: Houston Rockets
+------------------------------
+Game ID: 858346
+Date: 2023-03-09T00:00:00.000Z
+Home Team: Detroit Pistons
+Visitor Team: Charlotte Hornets
+------------------------------
+Game ID: 858247
+Date: 2023-02-23T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858308
+Date: 2023-03-03T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Utah Jazz
+------------------------------
+Game ID: 858355
+Date: 2023-03-10T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858385
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Washington Wizards
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 858386
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 858406
+Date: 2023-03-17T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 890550
+Date: 2023-04-11T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 890551
+Date: 2023-04-11T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 890552
+Date: 2023-04-12T00:00:00.000Z
+Home Team: Toronto Raptors
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 890553
+Date: 2023-04-12T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 890554
+Date: 2023-04-15T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 858382
+Date: 2023-03-14T00:00:00.000Z
+Home Team: New Orleans Pelicans
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858381
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Oklahoma City Thunder
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 890555
+Date: 2023-04-15T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 890556
+Date: 2023-04-15T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 890557
+Date: 2023-04-16T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858428
+Date: 2023-03-20T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 858425
+Date: 2023-03-20T00:00:00.000Z
+Home Team: Charlotte Hornets
+Visitor Team: Indiana Pacers
+------------------------------
+Game ID: 858437
+Date: 2023-03-22T00:00:00.000Z
+Home Team: Utah Jazz
+Visitor Team: Portland Trail Blazers
+------------------------------
+Game ID: 858503
+Date: 2023-03-31T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 891700
+Date: 2023-04-15T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 891774
+Date: 2023-04-16T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 858387
+Date: 2023-03-14T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 858526
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Orlando Magic
+Visitor Team: Detroit Pistons
+------------------------------
+Game ID: 892493
+Date: 2023-04-17T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Brooklyn Nets
+------------------------------
+Game ID: 892494
+Date: 2023-04-17T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 892495
+Date: 2023-04-18T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 892496
+Date: 2023-04-18T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 858528
+Date: 2023-04-02T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 858389
+Date: 2023-03-15T00:00:00.000Z
+Home Team: San Antonio Spurs
+Visitor Team: Dallas Mavericks
+------------------------------
+Game ID: 892497
+Date: 2023-04-18T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 858390
+Date: 2023-03-15T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 892498
+Date: 2023-04-19T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 892499
+Date: 2023-04-20T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 892500
+Date: 2023-04-20T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 892501
+Date: 2023-04-20T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 892502
+Date: 2023-04-21T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 892503
+Date: 2023-04-21T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 892504
+Date: 2023-04-22T00:00:00.000Z
+Home Team: Brooklyn Nets
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 892505
+Date: 2023-04-22T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 892506
+Date: 2023-04-22T00:00:00.000Z
+Home Team: LA Clippers
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 892507
+Date: 2023-04-23T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 892508
+Date: 2023-04-23T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Cleveland Cavaliers
+------------------------------
+Game ID: 892509
+Date: 2023-04-23T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 892511
+Date: 2023-04-24T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 892512
+Date: 2023-04-25T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Atlanta Hawks
+------------------------------
+Game ID: 892513
+Date: 2023-04-25T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: LA Clippers
+------------------------------
+Game ID: 892514
+Date: 2023-04-26T00:00:00.000Z
+Home Team: Cleveland Cavaliers
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 892515
+Date: 2023-04-26T00:00:00.000Z
+Home Team: Memphis Grizzlies
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 892516
+Date: 2023-04-26T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 892517
+Date: 2023-04-27T00:00:00.000Z
+Home Team: Atlanta Hawks
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 892528
+Date: 2023-04-30T00:00:00.000Z
+Home Team: Sacramento Kings
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 894221
+Date: 2023-04-14T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Chicago Bulls
+------------------------------
+Game ID: 894953
+Date: 2023-04-14T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Oklahoma City Thunder
+------------------------------
+Game ID: 906726
+Date: 2023-04-16T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 906734
+Date: 2023-04-19T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 906741
+Date: 2023-04-22T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 906748
+Date: 2023-04-24T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Milwaukee Bucks
+------------------------------
+Game ID: 906753
+Date: 2023-04-26T00:00:00.000Z
+Home Team: Milwaukee Bucks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 907511
+Date: 2023-04-16T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 907520
+Date: 2023-04-19T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 907527
+Date: 2023-04-21T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 907534
+Date: 2023-04-23T00:00:00.000Z
+Home Team: Minnesota Timberwolves
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 907540
+Date: 2023-04-25T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Minnesota Timberwolves
+------------------------------
+Game ID: 892521
+Date: 2023-04-28T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Memphis Grizzlies
+------------------------------
+Game ID: 892522
+Date: 2023-04-28T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Sacramento Kings
+------------------------------
+Game ID: 972853
+Date: 2023-05-01T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 972856
+Date: 2023-05-03T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 972857
+Date: 2023-05-05T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 970431
+Date: 2023-04-30T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 970433
+Date: 2023-05-02T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 970435
+Date: 2023-05-06T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 972860
+Date: 2023-05-07T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 970437
+Date: 2023-05-08T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 970439
+Date: 2023-05-10T00:00:00.000Z
+Home Team: New York Knicks
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 970441
+Date: 2023-05-12T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: New York Knicks
+------------------------------
+Game ID: 972863
+Date: 2023-05-09T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 972866
+Date: 2023-05-11T00:00:00.000Z
+Home Team: Philadelphia 76ers
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 967800
+Date: 2023-04-29T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 967805
+Date: 2023-05-01T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 967806
+Date: 2023-05-05T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 967807
+Date: 2023-05-07T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 967808
+Date: 2023-05-09T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Phoenix Suns
+------------------------------
+Game ID: 967809
+Date: 2023-05-11T00:00:00.000Z
+Home Team: Phoenix Suns
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 972869
+Date: 2023-05-14T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Philadelphia 76ers
+------------------------------
+Game ID: 1011165
+Date: 2023-06-01T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 1011166
+Date: 2023-06-04T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 1011167
+Date: 2023-06-07T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 1011168
+Date: 2023-06-09T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 1011169
+Date: 2023-06-12T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 981609
+Date: 2023-05-02T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 981611
+Date: 2023-05-04T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 981615
+Date: 2023-05-06T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 981619
+Date: 2023-05-08T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 981623
+Date: 2023-05-10T00:00:00.000Z
+Home Team: Golden State Warriors
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 981627
+Date: 2023-05-12T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Golden State Warriors
+------------------------------
+Game ID: 1007815
+Date: 2023-05-16T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 1007816
+Date: 2023-05-17T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 1007817
+Date: 2023-05-18T00:00:00.000Z
+Home Team: Denver Nuggets
+Visitor Team: Los Angeles Lakers
+------------------------------
+Game ID: 1007818
+Date: 2023-05-19T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 1007819
+Date: 2023-05-20T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 1007820
+Date: 2023-05-21T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 1007821
+Date: 2023-05-22T00:00:00.000Z
+Home Team: Los Angeles Lakers
+Visitor Team: Denver Nuggets
+------------------------------
+Game ID: 1007822
+Date: 2023-05-23T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 1007824
+Date: 2023-05-25T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
+Game ID: 1007826
+Date: 2023-05-27T00:00:00.000Z
+Home Team: Miami Heat
+Visitor Team: Boston Celtics
+------------------------------
+Game ID: 1007828
+Date: 2023-05-29T00:00:00.000Z
+Home Team: Boston Celtics
+Visitor Team: Miami Heat
+------------------------------
